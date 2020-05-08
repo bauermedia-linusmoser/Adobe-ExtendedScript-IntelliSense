@@ -15,10 +15,10 @@ Inside the downloaded repository, switch to the folder with the Adobe applicatio
 
 Depending on the declaration file you are using, you will also need some shared files. To play it safe, just copy the whole `shared` folder from the root directory of the downloaded repo into the newly created `dev/types/` folder in your CEP extension folder.
 
-### 3. Create a `tsconfig.json`
+### 3. `tsconfig.json`
 Great, you have now all declaration files in place. For IntelliSense to work properly with these file, you will need a `tsconfig.json`. Please feel free to use the provided file in the root directory of this repo and copy it into the root directory of your Adobe CEP extension folder.
 
-### 4. Create a `settings.json`
+### 4. `settings.json`
 Just one more step: You must make Visual Studio Code aware, that it should handle your .jsx ExtendedScript files like regular JavaScript (otherwise, the IntelliSense autocomplete won't work). So simply place a `settings.json` into your `.vscode` folder (if you don't have one already, simply create it in the root of your CEP extension folder), which must contain the following:
 
 ```
