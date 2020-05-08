@@ -1,5 +1,5 @@
-/// <reference path="global.d.ts" />
-/// <reference path="ScriptUI.d.ts" />
+/// <reference path="shared/global.d.ts" />
+/// <reference path="shared/ScriptUI.d.ts" />
 
 declare class Global {
   app: Application

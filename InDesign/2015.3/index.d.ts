@@ -1,4 +1,4 @@
-/// <reference path="../../shared/global.d.ts" />
+/// <reference path="shared/global.d.ts" />
 
 /**
  * An assignment.
