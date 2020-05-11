@@ -24,13 +24,12 @@ Just one more step: You must make Visual Studio Code aware, that it should handl
 ```
 {
     "files.associations": {
-        "*.jsx": "javascript",
-        "*.debug": "xml"
+        "*.jsx": "javascript"
     }
 }
 ```
 
-You may also just copy the provided `settings.json` file in the root of this repo.
+While you're at it, you might as well associate the `.debug` file as XML. Please feel free to copy the provided `settings.json` file in the root of this repo.
 
 ### 5. Enjoy IntelliSense support for ExtendedScript
 Awesome, you are all done! Your project folder should now look roughly like this:
