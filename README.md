@@ -33,7 +33,12 @@ Just one more step: You must make Visual Studio Code aware, that it should handl
 You may also just copy the provided `settings.json` file in the root of this repo.
 
 ### 5. Enjoy IntelliSense support for ExtendedScript
-Awesome, you are all done! Just switch to your ExtendedScript `.jsx` file and enjoy IntelliSense! :)
+Awesome, you are all done! Your project folder should now look roughly like this:
+
+<img src="https://github.com/bauermedia-linusmoser/Adobe-ExtendedScript-IntelliSense/blob/master/_resources/vscode-explorer.png" width="25%">
+
+
+Just switch to your ExtendedScript `.jsx` file and enjoy IntelliSense! :)
 
 
 
