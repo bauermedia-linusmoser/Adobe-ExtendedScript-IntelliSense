@@ -1,8 +1,8 @@
 # Types for Adobe - Visual Studio Code IntelliSense for Adobe CEP Panel Projects
 
-This is a fork of the [Types-for-Adobe](https://github.com/pravdomil/Types-for-Adobe) repository by [pravdomil](https://github.com/pravdomil). While the original repo is focussed on installing all typings (via npm) for the usage with TypeScript, this fork focusses on the usage with regular ExtendedScript (.jsx files) for the creation of Adobe CEP panels.
+This project is based on the [Types-for-Adobe](https://github.com/pravdomil/Types-for-Adobe) repository by [pravdomil](https://github.com/pravdomil). 
 
-This allows to enhance the Visual Studio Code IntelliSense and offer suggestions and other IntelliSense features in your ExtendedScript file(s).
+While the original repo is focussed on installing all typings (via npm) for the usage with TypeScript, this fork focusses on the usage with regular ExtendedScript (.jsx files) for the creation of Adobe CEP panels. This allows to enhance the Visual Studio Code IntelliSense and offer suggestions and other IntelliSense features in your ExtendedScript file(s).
 
 ## Usage with Visual Studio Code
 The following manual assumes that you are following the Adobe recommendations for [structuring your Adobe CEP panel project](https://github.com/Adobe-CEP/Getting-Started-guides#1-decide-the-folder-structure). 
