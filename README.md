@@ -40,9 +40,8 @@ Awesome, you are all done! Your project folder should now look roughly like this
 
 Just switch to your ExtendedScript `.jsx` file and enjoy IntelliSense! :)
 
+## Notice
 
+I am **not** the original author of the declaration files, these were made by [pravdomil](https://github.com/pravdomil). Please feel free to support the original author by [buying him a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCL2X3AFQBAP2&item_name=types-for-adobe%20Beer).
 
-
-## Support the original project
-
-As this is only a fork and I am **not** the original author, please feel free to support the original author by [buying him a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCL2X3AFQBAP2&item_name=types-for-adobe%20Beer).
+I stumbled upon these delaration files when I was looking for a way to enable ExtendedScript IntelliSense support for my Adobe CEP Panel project inside Visual Studio Code. As I was struggling to get IntelliSense working properly, I came up with this little project - intended to help others in the same situation.
